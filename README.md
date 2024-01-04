@@ -33,4 +33,4 @@ Meus repositórios públicos, são baasicamente forks de algumas bibliotecas que
 
 Se quiser saber mais sobre mim, me siga nas minhas redes sociais:
 
-<a href="https://www.linkedin.com/in/rodrig0fs/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rodrigo-f-s/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
