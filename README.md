@@ -1,5 +1,5 @@
 
-## Sobre mim
+## Quem sou
 
 Me chamo Rodrigo Fernandes, sou desenvolvedor PHP/Laravel e Kotlin.
 
