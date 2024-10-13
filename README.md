@@ -16,7 +16,7 @@ Minhas principais habilidades são com as linguagem PHP e Kotlin(para projetos m
 
 <hr width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
-Com entusiasmo pela programação e um amor incondicional pela minha família, encontro equilíbrio entre desafios tecnológicos e os momentos preciosos com aqueles que mais amo. Nos intervalos da programação, me aventuro a pedalar alguns quilômetros, priorizando também minha saúde. A busca constante pelo conhecimento é uma paixão que alimenta meu crescimento pessoal e profissional.
+Desenvolvedor de software há mais de 15 anos, hacker de bugs e domador de código rebelde. Formando em Engenharia de Software, movido a café e desafios, sempre em busca da solução perfeita (ou pelo menos da que compila).
 
 <hr width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
