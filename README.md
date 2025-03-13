@@ -16,7 +16,7 @@ Minhas principais habilidades são com as linguagem PHP e Kotlin(para projetos m
 
 <hr width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
-Desenvolvedor de software há mais de 15 anos, hacker de bugs e domador de código rebelde. Formando em Engenharia de Software, movido a café e desafios, sempre em busca da solução perfeita (ou pelo menos da que compila).
+Desenvolvedor de software há mais de 15 anos, hacker de bugs e domador de código rebelde. Bacharel em Engenharia de Software, movido a café e desafios, sempre em busca da solução "perfeitamente funcional" (ou pelo menos da que compila).
 
 <hr width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
