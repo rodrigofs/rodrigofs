@@ -6,6 +6,7 @@ Me chamo Rodrigo Fernandes, sou desenvolvedor PHP/Laravel e Kotlin.
 <div>
   <img src="https://img.shields.io/badge/PHP-7a86b8?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-f9322c?&style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Livewire-ff80be?&style=for-the-badge&logo=livewire&logoColor=white" />
   <img src="https://img.shields.io/badge/JS-efd81d?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-3b5182?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white" />
